@@ -1230,14 +1230,14 @@ section {
 }
 .team .member .social a {
   transition: color 0.3s;
-  color: rgba(1, 41, 112, 0.5);
+  color: rgb(255, 255, 255);
   margin: 15px 12px;
   display: block;
   line-height: 0;
   text-align: center;
 }
 .team .member .social a:hover {
-  color: rgba(1, 41, 112, 0.8);
+  color: rgb(255, 255, 255);
 }
 .team .member .social i {
   font-size: 18px;
