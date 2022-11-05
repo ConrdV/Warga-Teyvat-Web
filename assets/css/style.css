@@ -1237,7 +1237,7 @@ section {
   text-align: center;
 }
 .team .member .social a:hover {
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
 }
 .team .member .social i {
   font-size: 18px;
